@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // test_2 로 안지어져서 tesx로 지어봄 근대 리팩도링 안됨2
-// 깃 연동
+// 깃 연동 vs 코드로 깃 커밋 푸쉬 시도중
 void main() {
   runApp(const MyApp());
 }
