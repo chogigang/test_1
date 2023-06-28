@@ -1,6 +1,6 @@
 # tesx_2
 
-A new Flutter project.
+A new Flutter project. test라고 적었지만 안만들어져서 tesx 로 만들었는대 수정이 안된다. 테스트용이니 그냥 올리자...
 
 ## Getting Started
 
