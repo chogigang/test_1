@@ -27,5 +27,5 @@ class MyApp extends StatelessWidget {
           child: Container(width: 50,height: 50,color: Colors.blue,), //이렇게 하면 정중앙에 박스가 생긴다.
           )
     );
-  }
+  }   
 }
