@@ -31,7 +31,6 @@ class MyApp extends StatelessWidget {
                 // decoration: BoxDecoration(//박스 테두리주는법
             
                 //   // border: Border.all(color: Colors.black),// 박스 데코래이션 을 넣으면 위 컬러 색상을 넣을수가 없다. 중복을 방지하기 위해서다.
-            
                 // ),
                 
               ),
