@@ -24,9 +24,6 @@ class MyApp extends StatelessWidget {
         //   //  style: TextStyle(letterSpacing: )//글자 자간(글자와 글자 사이의 간격)
         //   //  style: TextStyle(backgroundColor: Colors.blue), //색 주는 방법중 하나
         //   // style: TextStyle(fontWeight: FontWeight.w700)//글자 두깨
-
-
-          
         // ),
         // child: Icon(Icons.star,)//아이콘은 color,size 가 끝이다.
       // child: TextButton( // TextButton, IconButton, ElevatedButton 중 하나를 선택  버튼에는 필히 child, onPressed 가 필히 들어가야함
@@ -36,7 +33,7 @@ class MyApp extends StatelessWidget {
 
       child: IconButton(
           icon: Icon(Icons.star),
-          onPressed: (){},
+          onPressed: (){}, //꼭들어가야함
 
       ),
 
