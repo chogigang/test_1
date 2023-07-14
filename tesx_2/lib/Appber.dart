@@ -34,6 +34,7 @@ class MyApp extends StatelessWidget {
       child: IconButton(
           icon: Icon(Icons.star),
           onPressed: (){}, //꼭들어가야함
+          
 
       ),
 
