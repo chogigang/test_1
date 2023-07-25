@@ -5,7 +5,7 @@ void main() {
 }
 
 
-// 메인 페이지 셋팅 
+// 메인 페이지 셋팅.
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
           // home:Center(//자식의 위젯의 기준을 정중앙으로 해달라.
           // child: Container(width: 50,height: 50,color: Colors.blue,), //이렇게 하면 정중앙에 박스가 생긴다.
 
-          home: Scaffold( //앱을 상 중 하 로 나누는 위젯
+          // home: Scaffold( //앱을 상 중 하 로 나누는 위젯
             // appBar: AppBar(), //상단
             // body: Container(//중단 
             //     child: Icon(Icons.star),
@@ -51,9 +51,9 @@ class MyApp extends StatelessWidget {
 
             // ),
             // bottomNavigationBar: BottomAppBar(), //하단 엡바.
-          )
+          // )
           );
-    
+      
   }
 }
 
